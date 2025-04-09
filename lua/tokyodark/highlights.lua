@@ -112,7 +112,7 @@ M.highlights = {
   Type = { fg = p.blue } + styles.keywords,
   Structure = { fg = p.blue } + styles.keywords,
   StorageClass = { fg = p.blue } + styles.keywords,
-  Identifier = { fg = p.orange } + styles.identifiers,
+  Identifier = { fg = p.green } + styles.identifiers,
   Constant = { fg = p.orange } + styles.variables,
   PreProc = { fg = p.red },
   PreCondit = { fg = p.red },
@@ -146,7 +146,7 @@ M.highlights = {
   -- whichkey
   WhichKey = { fg = p.red },
   WhichKeyDesc = { fg = p.blue },
-  WhichKeyGroup = { fg = p.white },
+  WhichKeyGroup = { fg = p.orange },
   WhichKeySeperator = { fg = p.green },
 
   -- flash
