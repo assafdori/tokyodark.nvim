@@ -149,6 +149,14 @@ M.highlights = {
   WhichKeyGroup = { fg = p.orange },
   WhichKeySeperator = { fg = p.green },
 
+  -- snacks
+  SnacksDashboardHeader = { fg = p.fg },
+  SnacksDashboardKey = { fg = p.fg },
+  SnacksDashboardDesc = { fg = p.fg },
+  SnacksDashboardIcon = { fg = p.fg },
+  SnacksDashboardFooter = { fg = p.fg },
+  SnacksDashboardSpecial = { fg = p.fg },
+
   -- flash
   FlashBackdrop = { fg = p.bg4 },
   FlashLabel = { fg = p.bg0, bg = p.blue, bold = true },
