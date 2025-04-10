@@ -150,11 +150,11 @@ M.highlights = {
   WhichKeySeperator = { fg = p.green },
 
   -- snacks
-  SnacksDashboardHeader = { fg = p.fg },
-  SnacksDashboardKey = { fg = p.fg },
-  SnacksDashboardDesc = { fg = p.fg },
-  SnacksDashboardIcon = { fg = p.fg },
-  SnacksDashboardFooter = { fg = p.fg },
+  SnacksDashboardHeader = { fg = "#ffffff" },
+  SnacksDashboardKey = { fg = "#ffffff" },
+  SnacksDashboardDesc = { fg = "#ffffff" },
+  SnacksDashboardIcon = { fg = "#ffffff" },
+  SnacksDashboardFooter = { fg = "#ffffff" },
   SnacksDashboardSpecial = { fg = p.fg },
 
   -- flash
